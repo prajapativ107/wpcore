@@ -156,9 +156,3 @@ if ( ! function_exists( 'twentytwentyfive_format_binding' ) ) :
 		}
 	}
 endif;
-
-add_action('init', 'vivel_jhd_jhudh');
-function vivel_jhd_jhudh(){
-
-	echo 'hello Vivek';
-}
